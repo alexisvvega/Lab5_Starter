@@ -2,5 +2,6 @@
 
 ## Partners: Alexis Vega and Eric Song 
 
-[Link to the expose.html](expose.html)  
-[Link to the explore.html](expose.html)
+
+[Link to the expose]([expose.html](https://alexisvvega.github.io/Lab5_Starter/expose.html))  
+
